@@ -1,4 +1,5 @@
-![Texte alternatif]([URL_de_l_image](https://www.pinterest.com/pin/586664288973247309/))
+![GIF](https://i.pinimg.com/originals/49/84/c0/4984c0ac41b13002de2873e622efa63c.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Laaridi Imane</h1>
